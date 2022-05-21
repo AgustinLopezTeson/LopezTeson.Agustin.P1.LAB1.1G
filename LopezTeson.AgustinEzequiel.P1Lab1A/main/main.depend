@@ -1,0 +1,135 @@
+# depslib dependency file v1.0
+1653083251 source:c:\users\agust\onedrive\escritorio\parcial laboratorio\parcial 1\lopezteson.agustinezequiel.p1lab1a\main\color.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"color.h"
+	"servicio.h"
+	"trabajo.h"
+	"fecha.h"
+	"tipo.h"
+	"mascota.h"
+	"cliente.h"
+
+1653083251 source:c:\users\agust\onedrive\escritorio\parcial laboratorio\parcial 1\lopezteson.agustinezequiel.p1lab1a\main\fecha.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"color.h"
+	"servicio.h"
+	"trabajo.h"
+	"fecha.h"
+	"tipo.h"
+	"mascota.h"
+	"cliente.h"
+
+1653093914 source:c:\users\agust\onedrive\escritorio\parcial laboratorio\parcial 1\lopezteson.agustinezequiel.p1lab1a\main\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"color.h"
+	"servicio.h"
+	"trabajo.h"
+	"fecha.h"
+	"tipo.h"
+	"mascota.h"
+	"data.h"
+	"cliente.h"
+
+1653089905 c:\users\agust\onedrive\escritorio\parcial laboratorio\parcial 1\lopezteson.agustinezequiel.p1lab1a\main\color.h
+
+1653089905 c:\users\agust\onedrive\escritorio\parcial laboratorio\parcial 1\lopezteson.agustinezequiel.p1lab1a\main\servicio.h
+
+1653090185 c:\users\agust\onedrive\escritorio\parcial laboratorio\parcial 1\lopezteson.agustinezequiel.p1lab1a\main\trabajo.h
+	"fecha.h"
+	"mascota.h"
+	"tipo.h"
+	"cliente.h"
+
+1653089905 c:\users\agust\onedrive\escritorio\parcial laboratorio\parcial 1\lopezteson.agustinezequiel.p1lab1a\main\fecha.h
+
+1653090173 c:\users\agust\onedrive\escritorio\parcial laboratorio\parcial 1\lopezteson.agustinezequiel.p1lab1a\main\tipo.h
+	"mascota.h"
+
+1653093085 c:\users\agust\onedrive\escritorio\parcial laboratorio\parcial 1\lopezteson.agustinezequiel.p1lab1a\main\mascota.h
+	"tipo.h"
+	"cliente.h"
+	"trabajo.h"
+
+1653093852 source:c:\users\agust\onedrive\escritorio\parcial laboratorio\parcial 1\lopezteson.agustinezequiel.p1lab1a\main\mascota.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"color.h"
+	"servicio.h"
+	"trabajo.h"
+	"fecha.h"
+	"tipo.h"
+	"mascota.h"
+	"cliente.h"
+	<ctype.h>
+
+1653083251 source:c:\users\agust\onedrive\escritorio\parcial laboratorio\parcial 1\lopezteson.agustinezequiel.p1lab1a\main\servicio.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"color.h"
+	"servicio.h"
+	"trabajo.h"
+	"fecha.h"
+	"tipo.h"
+	"mascota.h"
+	"cliente.h"
+
+1653090640 source:c:\users\agust\onedrive\escritorio\parcial laboratorio\parcial 1\lopezteson.agustinezequiel.p1lab1a\main\tipo.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"color.h"
+	"servicio.h"
+	"trabajo.h"
+	"fecha.h"
+	"tipo.h"
+	"mascota.h"
+	"cliente.h"
+
+1653087599 source:c:\users\agust\onedrive\escritorio\parcial laboratorio\parcial 1\lopezteson.agustinezequiel.p1lab1a\main\trabajo.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"color.h"
+	"servicio.h"
+	"trabajo.h"
+	"fecha.h"
+	"tipo.h"
+	"mascota.h"
+	"cliente.h"
+
+1653086528 source:c:\users\agust\onedrive\escritorio\parcial laboratorio\parcial 1\lopezteson.agustinezequiel.p1lab1a\main\data.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"color.h"
+	"servicio.h"
+	"trabajo.h"
+	"fecha.h"
+	"tipo.h"
+	"mascota.h"
+	"data.h"
+
+1653089905 c:\users\agust\onedrive\escritorio\parcial laboratorio\parcial 1\lopezteson.agustinezequiel.p1lab1a\main\data.h
+
+1653089905 c:\users\agust\onedrive\escritorio\parcial laboratorio\parcial 1\lopezteson.agustinezequiel.p1lab1a\main\cliente.h
+
+1653086121 source:c:\users\agust\onedrive\escritorio\parcial laboratorio\parcial 1\lopezteson.agustinezequiel.p1lab1a\main\cliente.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"color.h"
+	"servicio.h"
+	"trabajo.h"
+	"fecha.h"
+	"tipo.h"
+	"mascota.h"
+	"cliente.h"
+
